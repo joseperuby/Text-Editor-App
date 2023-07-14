@@ -2,7 +2,7 @@
 
 This project aims to create a user-friendly text editor app as an alternative to traditional "Notepad" or similar applications.
 
-## Introdution
+## Introduction
 Introduction
 Welcome to the Python File Text Editor project! Built using Tkinter, this text editor offers a user-friendly interface and a range of powerful features 
 to enhance your text editing experience. With the ability to customize fonts, change font colors, and utilize various handy tools, our text editor 
