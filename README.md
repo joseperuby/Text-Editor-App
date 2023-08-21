@@ -14,6 +14,19 @@ From selecting your favorite fonts to adjusting colors that inspire your creativ
 Whether you're a professional writer, a developer, or simply someone who enjoys expressing thoughts through words,
 my Python File Text Editor is designed to meet your needs. It's time to elevate your text editing experience and unleash your creativity!
 
+## Project Screenshots
+![I](img/img.png)
+GUI
+
+
+![I1](img/img1.png)
+![I2](img/img2.png)
+![I3](img/img3.png)
+![I4](img/img4.png)
+![I5](img/img5.png)
+![I6](img/img6.png)
+
+
 ## Contact
 
 www.linkedin.com/in/joseperuby
