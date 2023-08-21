@@ -18,7 +18,7 @@ from tkinter import messagebox as MessageBox
 from io import open
 import os
 import tempfile
-
+from functions.newFile import new_file
 
 # Pred Var
 location = "" 
@@ -31,13 +31,6 @@ underline_pred = 'normal'
 
 
 # Functions
-def new_file(event=None):
-    global location
-    message.set("New file")
-    location = ""
-    text.delete(1.0, END)
-    root.title("Text-Editor")
-
 def open_file(event=None):
     global location
     message.set("Open file")
